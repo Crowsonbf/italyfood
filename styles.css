@@ -1,0 +1,205 @@
+#navbar {
+	/*Add your CSS here!*/
+	margin-top:-5px;
+	left:50%;
+	margin-left:-350px;
+	position: fixed;
+}
+#header {
+	position: relative;
+	top: -10px;
+	background-color: #3c4543;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+    height: 100px;
+    margin-top: -30px;
+}
+
+ul{
+	list-style-type: none;
+	position: fixed;
+	margin: 15px;
+    text-align: center;
+    align-content: center;
+}
+
+#li {
+	
+	border: 2px solid #000000;
+	font-family: Futura, Tahoma, sans-serif;
+	color: #ffffff;
+	border-radius: 5px 5px;
+	background-color: #cc0323;
+	display: inline;
+	padding: 7px;
+    width: 100px;
+    height: 100px;
+}
+
+h2 {
+    padding-left: 15px;
+    padding-top: 20px;
+
+
+
+}
+
+#topbreak {
+    display:block;
+  padding-left: 3px;
+    height: 100px;
+    width: 800px;
+    background-color: #3c4543;
+    color: white;
+    border-radius: 50%;
+    border-left-radius: 25%;
+            margin:auto;
+    text-align: center;
+    border: 5px solid #990000;
+    text-size: 35px;
+    font-size: 35px;
+    
+    
+}
+
+img {
+    width:500px;
+    display: inline;
+    margin-top: 50px;
+    border-radius: 20%;
+    border: 3px solid #990000;
+    margin-left: 200px
+    
+    
+}
+#ing {
+    display: inline-block;
+    margin-left: 200px;
+    text-align:center;
+    background-color: #3c4543;
+    color: white;
+    width: 800px;
+    font-size: 45px;
+    margin-right: 100px;
+    margin-top: 100px;
+    height: 450px;
+    border-radius: 20%;
+    border: 4px solid #990000;
+    	list-style-type:circle;
+        
+}
+body {
+    background-image: url("flag.jpg");
+    background-repeat: repeat;
+}   
+
+ol {
+        list-style-type: none;
+}
+
+#dir {     display:block;
+    margin-left: 50px;
+    text-align:center;
+    background-color: #3c4543;
+    color: white;
+    width: 2000px;
+    font-size: 45px;
+    margin-right: 100px;
+    margin-top: 100px;
+    height: 450px;
+    border-radius: 20%;
+    border: 4px solid #990000;
+    
+    
+    
+    
+}
+
+a {
+ text-decoration: none; 
+ color: white;
+}
+
+#lunc {
+        display: inline-block;
+    margin-left: 50px;
+    text-align:center;
+    background-color: #3c4543;
+    color: white;
+    width: 800px;
+    font-size: 45px;
+    margin-right: 100px;
+    margin-top: 100px;
+    height: 600px;
+    border-radius: 20%;
+    border: 4px solid #990000;
+    	list-style-type:circle;
+    
+    
+    
+}
+
+#dir2 {     display:block;
+    margin-left: 50px;
+    text-align:center;
+    background-color: #3c4543;
+    color: white;
+    width: 2000px;
+    font-size: 45px;
+    margin-right: 100px;
+    margin-top: 100px;
+    height: 600px;
+    border-radius: 20%;
+    border: 4px solid #990000;
+    
+}
+
+#des {
+
+    display:block;
+    margin-left: 50px;
+    text-align:center;
+    background-color: #3c4543;
+    color: white;
+    width: 2050px;
+    font-size: 45px;
+    margin-right: 100px;
+    margin-top: 100px;
+    height: 1200px;
+    border-radius: 20%;
+    border: 4px solid #990000;
+
+
+
+
+
+
+}
+
+#ing3 {
+    display: inline-block;
+    margin-left: 200px;
+    text-align:center;
+    background-color: #3c4543;
+    color: white;
+    width: 800px;
+    font-size: 45px;
+    margin-right: 100px;
+    margin-top: 100px;
+    height: 600px;
+    border-radius: 20%;
+    border: 4px solid #990000;
+    	list-style-type:circle;
+
+
+
+
+}
+
+footer p {
+    color: white;
+    font-size: 15px;
+
+
+
+}
